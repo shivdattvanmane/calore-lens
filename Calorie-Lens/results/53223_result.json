@@ -1,0 +1,85 @@
+{
+  "filename": "53223.jpg",
+  "food": "bandar_laddu",
+  "food_name": "Bandar Laddu",
+  "category": "Dessert",
+  "food_conf": 1.0,
+  "top_predictions": [
+    {
+      "food_id": "jalebi",
+      "name": "Jalebi",
+      "category": "Dessert",
+      "confidence": 0.3773,
+      "calories_per_100g": 400.0
+    },
+    {
+      "food_id": "boondi",
+      "name": "Boondi",
+      "category": "Snack",
+      "confidence": 0.1765,
+      "calories_per_100g": 405.0
+    },
+    {
+      "food_id": "bandar_laddu",
+      "name": "Bandar Laddu",
+      "category": "Dessert",
+      "confidence": 0.1557,
+      "calories_per_100g": 450.0
+    },
+    {
+      "food_id": "butter_chicken",
+      "name": "Butter Chicken",
+      "category": "Nonveg Curry",
+      "confidence": 0.1486,
+      "calories_per_100g": 260.0
+    },
+    {
+      "food_id": "chicken_tikka_masala",
+      "name": "Chicken Tikka Masala",
+      "category": "Nonveg Curry",
+      "confidence": 0.1419,
+      "calories_per_100g": 255.0
+    }
+  ],
+  "vessel": {
+    "type": "plate",
+    "name": "Plate",
+    "confidence": 0.92,
+    "diameter_cm": 25.0,
+    "expected_fill": 0.65
+  },
+  "portion": {
+    "weight_g": 78.1,
+    "area_fraction": 0.7249,
+    "area_percent": 72.5,
+    "fill_ratio": 1.115,
+    "avg_serving_g": 70.0
+  },
+  "nutrients": {
+    "calories_kcal": 351.4,
+    "calories_range": [
+      288.1,
+      414.7
+    ],
+    "uncertainty_pct": 18,
+    "cal_per_g": 4.5,
+    "protein_g": 4.7,
+    "carbohydrates_g": 46.9,
+    "fat_g": 14.1,
+    "fiber_g": 2.3,
+    "per_100g": {
+      "calories": 450.0,
+      "protein": 6.0,
+      "carbs": 60.0,
+      "fat": 18.0,
+      "fiber": 3.0
+    },
+    "energy_breakdown": {
+      "protein_pct": 5.6,
+      "carbs_pct": 56.3,
+      "fat_pct": 38.1
+    },
+    "food_type": "solid",
+    "density_g_per_cm3": 0.74
+  }
+}

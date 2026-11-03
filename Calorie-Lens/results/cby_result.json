@@ -1,0 +1,85 @@
+{
+  "filename": "cby.jpg",
+  "food": "biryani",
+  "food_name": "Biryani",
+  "category": "Rice Dish",
+  "food_conf": 1.0,
+  "top_predictions": [
+    {
+      "food_id": "kadai_paneer",
+      "name": "Kadai Paneer",
+      "category": "Veg Curry",
+      "confidence": 0.2194,
+      "calories_per_100g": 265.0
+    },
+    {
+      "food_id": "chicken_tikka_masala",
+      "name": "Chicken Tikka Masala",
+      "category": "Nonveg Curry",
+      "confidence": 0.2011,
+      "calories_per_100g": 255.0
+    },
+    {
+      "food_id": "jalebi",
+      "name": "Jalebi",
+      "category": "Dessert",
+      "confidence": 0.1972,
+      "calories_per_100g": 400.0
+    },
+    {
+      "food_id": "paneer_butter_masala",
+      "name": "Paneer Butter Masala",
+      "category": "Veg Curry",
+      "confidence": 0.1932,
+      "calories_per_100g": 270.0
+    },
+    {
+      "food_id": "butter_chicken",
+      "name": "Butter Chicken",
+      "category": "Nonveg Curry",
+      "confidence": 0.1891,
+      "calories_per_100g": 260.0
+    }
+  ],
+  "vessel": {
+    "type": "bowl",
+    "name": "Bowl",
+    "confidence": 0.88,
+    "diameter_cm": 15.0,
+    "expected_fill": 0.8
+  },
+  "portion": {
+    "weight_g": 228.6,
+    "area_fraction": 0.7315,
+    "area_percent": 73.2,
+    "fill_ratio": 0.914,
+    "avg_serving_g": 250.0
+  },
+  "nutrients": {
+    "calories_kcal": 662.9,
+    "calories_range": [
+      543.6,
+      782.2
+    ],
+    "uncertainty_pct": 18,
+    "cal_per_g": 2.9,
+    "protein_g": 20.6,
+    "carbohydrates_g": 80.0,
+    "fat_g": 27.4,
+    "fiber_g": 4.6,
+    "per_100g": {
+      "calories": 290.0,
+      "protein": 9.0,
+      "carbs": 35.0,
+      "fat": 12.0,
+      "fiber": 2.0
+    },
+    "energy_breakdown": {
+      "protein_pct": 12.7,
+      "carbs_pct": 49.3,
+      "fat_pct": 38.0
+    },
+    "food_type": "mixed",
+    "density_g_per_cm3": 0.88
+  }
+}

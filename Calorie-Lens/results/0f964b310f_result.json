@@ -1,0 +1,85 @@
+{
+  "filename": "0f964b310f.jpg",
+  "food": "chak_hao_kheer",
+  "food_name": "Chak Hao Kheer",
+  "category": "Dessert",
+  "food_conf": 0.4237,
+  "top_predictions": [
+    {
+      "food_id": "chak_hao_kheer",
+      "name": "Chak Hao Kheer",
+      "category": "Dessert",
+      "confidence": 0.4237,
+      "calories_per_100g": 240.0
+    },
+    {
+      "food_id": "daal_baati_churma",
+      "name": "Daal Baati Churma",
+      "category": "Mixed",
+      "confidence": 0.2061,
+      "calories_per_100g": 410.0
+    },
+    {
+      "food_id": "aloo_tikki",
+      "name": "Aloo Tikki",
+      "category": "Snack",
+      "confidence": 0.131,
+      "calories_per_100g": 220.0
+    },
+    {
+      "food_id": "daal_puri",
+      "name": "Daal Puri",
+      "category": "Bread",
+      "confidence": 0.1254,
+      "calories_per_100g": 320.0
+    },
+    {
+      "food_id": "aloo_gobi",
+      "name": "Aloo Gobi",
+      "category": "Vegetable Curry",
+      "confidence": 0.1137,
+      "calories_per_100g": 110.0
+    }
+  ],
+  "vessel": {
+    "type": "plate",
+    "name": "Plate",
+    "confidence": 0.92,
+    "diameter_cm": 25.0,
+    "expected_fill": 0.65
+  },
+  "portion": {
+    "weight_g": 173.1,
+    "area_fraction": 0.7503,
+    "area_percent": 75.0,
+    "fill_ratio": 1.154,
+    "avg_serving_g": 150.0
+  },
+  "nutrients": {
+    "calories_kcal": 415.4,
+    "calories_range": [
+      373.9,
+      456.9
+    ],
+    "uncertainty_pct": 10,
+    "cal_per_g": 2.4,
+    "protein_g": 10.4,
+    "carbohydrates_g": 55.4,
+    "fat_g": 13.8,
+    "fiber_g": 1.7,
+    "per_100g": {
+      "calories": 240.0,
+      "protein": 6.0,
+      "carbs": 32.0,
+      "fat": 8.0,
+      "fiber": 1.0
+    },
+    "energy_breakdown": {
+      "protein_pct": 10.7,
+      "carbs_pct": 57.2,
+      "fat_pct": 32.1
+    },
+    "food_type": "semi_liquid",
+    "density_g_per_cm3": 1.04
+  }
+}

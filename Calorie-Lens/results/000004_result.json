@@ -1,0 +1,85 @@
+{
+  "filename": "000004.jpg",
+  "food": "chicken_razala",
+  "food_name": "Chicken Razala",
+  "category": "Nonveg Curry",
+  "food_conf": 0.4299,
+  "top_predictions": [
+    {
+      "food_id": "chicken_razala",
+      "name": "Chicken Razala",
+      "category": "Nonveg Curry",
+      "confidence": 0.4299,
+      "calories_per_100g": 240.0
+    },
+    {
+      "food_id": "daal_puri",
+      "name": "Daal Puri",
+      "category": "Bread",
+      "confidence": 0.183,
+      "calories_per_100g": 320.0
+    },
+    {
+      "food_id": "anarsa",
+      "name": "Anarsa",
+      "category": "Dessert",
+      "confidence": 0.1343,
+      "calories_per_100g": 410.0
+    },
+    {
+      "food_id": "malapua",
+      "name": "Malapua",
+      "category": "Dessert",
+      "confidence": 0.1328,
+      "calories_per_100g": 350.0
+    },
+    {
+      "food_id": "chapati",
+      "name": "Chapati",
+      "category": "Bread",
+      "confidence": 0.12,
+      "calories_per_100g": 297.0
+    }
+  ],
+  "vessel": {
+    "type": "plate",
+    "name": "Plate",
+    "confidence": 0.92,
+    "diameter_cm": 25.0,
+    "expected_fill": 0.65
+  },
+  "portion": {
+    "weight_g": 196.3,
+    "area_fraction": 0.7506,
+    "area_percent": 75.1,
+    "fill_ratio": 1.155,
+    "avg_serving_g": 170.0
+  },
+  "nutrients": {
+    "calories_kcal": 471.1,
+    "calories_range": [
+      400.4,
+      541.8
+    ],
+    "uncertainty_pct": 15,
+    "cal_per_g": 2.4,
+    "protein_g": 33.4,
+    "carbohydrates_g": 9.8,
+    "fat_g": 31.4,
+    "fiber_g": 0.0,
+    "per_100g": {
+      "calories": 240.0,
+      "protein": 17.0,
+      "carbs": 5.0,
+      "fat": 16.0,
+      "fiber": 0.0
+    },
+    "energy_breakdown": {
+      "protein_pct": 29.3,
+      "carbs_pct": 8.6,
+      "fat_pct": 62.1
+    },
+    "food_type": "curry",
+    "density_g_per_cm3": 1.01
+  }
+}

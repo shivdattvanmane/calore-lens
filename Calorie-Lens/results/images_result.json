@@ -1,0 +1,85 @@
+{
+  "filename": "images.jpeg",
+  "food": "malapua",
+  "food_name": "Malapua",
+  "category": "Dessert",
+  "food_conf": 1.0,
+  "top_predictions": [
+    {
+      "food_id": "malapua",
+      "name": "Malapua",
+      "category": "Dessert",
+      "confidence": 0.2937,
+      "calories_per_100g": 350.0
+    },
+    {
+      "food_id": "chikki",
+      "name": "Chikki",
+      "category": "Dessert",
+      "confidence": 0.1942,
+      "calories_per_100g": 480.0
+    },
+    {
+      "food_id": "daal_baati_churma",
+      "name": "Daal Baati Churma",
+      "category": "Mixed",
+      "confidence": 0.1923,
+      "calories_per_100g": 410.0
+    },
+    {
+      "food_id": "aloo_tikki",
+      "name": "Aloo Tikki",
+      "category": "Snack",
+      "confidence": 0.1762,
+      "calories_per_100g": 220.0
+    },
+    {
+      "food_id": "mysore_pak",
+      "name": "Mysore Pak",
+      "category": "Dessert",
+      "confidence": 0.1436,
+      "calories_per_100g": 460.0
+    }
+  ],
+  "vessel": {
+    "type": "plate",
+    "name": "Plate",
+    "confidence": 0.92,
+    "diameter_cm": 25.0,
+    "expected_fill": 0.65
+  },
+  "portion": {
+    "weight_g": 100.8,
+    "area_fraction": 0.7281,
+    "area_percent": 72.8,
+    "fill_ratio": 1.12,
+    "avg_serving_g": 90.0
+  },
+  "nutrients": {
+    "calories_kcal": 352.8,
+    "calories_range": [
+      289.3,
+      416.3
+    ],
+    "uncertainty_pct": 18,
+    "cal_per_g": 3.5,
+    "protein_g": 6.0,
+    "carbohydrates_g": 50.4,
+    "fat_g": 14.1,
+    "fiber_g": 1.0,
+    "per_100g": {
+      "calories": 350.0,
+      "protein": 6.0,
+      "carbs": 50.0,
+      "fat": 14.0,
+      "fiber": 1.0
+    },
+    "energy_breakdown": {
+      "protein_pct": 6.8,
+      "carbs_pct": 57.2,
+      "fat_pct": 36.0
+    },
+    "food_type": "solid",
+    "density_g_per_cm3": 0.85
+  }
+}

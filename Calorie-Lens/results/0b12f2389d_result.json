@@ -1,0 +1,85 @@
+{
+  "filename": "0b12f2389d.jpg",
+  "food": "aloo_methi",
+  "food_name": "Aloo Methi",
+  "category": "Vegetable Curry",
+  "food_conf": 0.985,
+  "top_predictions": [
+    {
+      "food_id": "aloo_methi",
+      "name": "Aloo Methi",
+      "category": "Vegetable Curry",
+      "confidence": 0.985,
+      "calories_per_100g": 105.0
+    },
+    {
+      "food_id": "bandar_laddu",
+      "name": "Bandar Laddu",
+      "category": "Dessert",
+      "confidence": 0.005,
+      "calories_per_100g": 450.0
+    },
+    {
+      "food_id": "jalebi",
+      "name": "Jalebi",
+      "category": "Dessert",
+      "confidence": 0.005,
+      "calories_per_100g": 400.0
+    },
+    {
+      "food_id": "mysore_pak",
+      "name": "Mysore Pak",
+      "category": "Dessert",
+      "confidence": 0.005,
+      "calories_per_100g": 460.0
+    },
+    {
+      "food_id": "gulab_jamun",
+      "name": "Gulab Jamun",
+      "category": "Dessert",
+      "confidence": 0.005,
+      "calories_per_100g": 380.0
+    }
+  ],
+  "vessel": {
+    "type": "plate",
+    "name": "Plate",
+    "confidence": 0.92,
+    "diameter_cm": 25.0,
+    "expected_fill": 0.65
+  },
+  "portion": {
+    "weight_g": 155.5,
+    "area_fraction": 0.7218,
+    "area_percent": 72.2,
+    "fill_ratio": 1.111,
+    "avg_serving_g": 140.0
+  },
+  "nutrients": {
+    "calories_kcal": 163.3,
+    "calories_range": [
+      143.7,
+      182.9
+    ],
+    "uncertainty_pct": 12,
+    "cal_per_g": 1.05,
+    "protein_g": 4.7,
+    "carbohydrates_g": 20.2,
+    "fat_g": 7.0,
+    "fiber_g": 6.2,
+    "per_100g": {
+      "calories": 105.0,
+      "protein": 3.0,
+      "carbs": 13.0,
+      "fat": 4.5,
+      "fiber": 4.0
+    },
+    "energy_breakdown": {
+      "protein_pct": 11.6,
+      "carbs_pct": 49.7,
+      "fat_pct": 38.7
+    },
+    "food_type": "curry",
+    "density_g_per_cm3": 0.95
+  }
+}

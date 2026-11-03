@@ -1,0 +1,85 @@
+{
+  "filename": "ib.jpeg",
+  "food": "biryani",
+  "food_name": "Biryani",
+  "category": "Rice Dish",
+  "food_conf": 1.0,
+  "top_predictions": [
+    {
+      "food_id": "chana_masala",
+      "name": "Chana Masala",
+      "category": "Legume Curry",
+      "confidence": 0.3592,
+      "calories_per_100g": 180.0
+    },
+    {
+      "food_id": "chikki",
+      "name": "Chikki",
+      "category": "Dessert",
+      "confidence": 0.2536,
+      "calories_per_100g": 480.0
+    },
+    {
+      "food_id": "kofta",
+      "name": "Kofta",
+      "category": "Veg Curry",
+      "confidence": 0.131,
+      "calories_per_100g": 240.0
+    },
+    {
+      "food_id": "ariselu",
+      "name": "Ariselu",
+      "category": "Dessert",
+      "confidence": 0.1296,
+      "calories_per_100g": 430.0
+    },
+    {
+      "food_id": "dum_aloo",
+      "name": "Dum Aloo",
+      "category": "Vegetable Curry",
+      "confidence": 0.1266,
+      "calories_per_100g": 170.0
+    }
+  ],
+  "vessel": {
+    "type": "plate",
+    "name": "Plate",
+    "confidence": 0.92,
+    "diameter_cm": 25.0,
+    "expected_fill": 0.65
+  },
+  "portion": {
+    "weight_g": 282.5,
+    "area_fraction": 0.7344,
+    "area_percent": 73.4,
+    "fill_ratio": 1.13,
+    "avg_serving_g": 250.0
+  },
+  "nutrients": {
+    "calories_kcal": 819.2,
+    "calories_range": [
+      671.7,
+      966.7
+    ],
+    "uncertainty_pct": 18,
+    "cal_per_g": 2.9,
+    "protein_g": 25.4,
+    "carbohydrates_g": 98.9,
+    "fat_g": 33.9,
+    "fiber_g": 5.7,
+    "per_100g": {
+      "calories": 290.0,
+      "protein": 9.0,
+      "carbs": 35.0,
+      "fat": 12.0,
+      "fiber": 2.0
+    },
+    "energy_breakdown": {
+      "protein_pct": 12.7,
+      "carbs_pct": 49.3,
+      "fat_pct": 38.0
+    },
+    "food_type": "mixed",
+    "density_g_per_cm3": 0.88
+  }
+}
